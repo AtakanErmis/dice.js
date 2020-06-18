@@ -13,6 +13,10 @@ This repository implements these studies
 ```
 dicejs.dice();
 ```
+## To Dice (with different side count)
+```
+dicejs.dice(8);
+```
 ## Get a Random Integer
 ```
 let max = 10;
